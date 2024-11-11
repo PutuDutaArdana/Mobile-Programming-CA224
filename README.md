@@ -2,8 +2,8 @@
 
 Whatsapp MainPage Flutter Project
 
-Name    : Ni Ketut Rai Nukarimasih
-NIM     : 220040256
+Name    : I Putu Duta Ardana
+NIM     : 220040202
 
 # Rekaman Tugas
 
